@@ -1,0 +1,142 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<h1 class="d-none">@ViewData["Title"]</h1> <!-- Hide the default title -->
+
+<div class="row g-0" style="height: 100vh; overflow: hidden;">
+    <!-- Login Form Column -->
+    <div class="col-lg-6 p-5 bg-white flex-column justify-content-center" style="display: flex; height:100vh;">
+        <section>
+            <form id="account" method="post">
+                <img src="~/image/logo.svg" alt="Logo" style="width:200px;" />
+                <h2 class="mb-4" style="font-size: 30px">Content de te revoir !</h2>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="mb-3">
+                    <label asp-for="Input.Email" class="form-label">Email</label>
+                    <input asp-for="Input.Email" class="form-control custom-input" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Input.Password" class="form-label">Password</label>
+                    <div class="input-group">
+                        <input asp-for="Input.Password" class="form-control custom-input" autocomplete="current-password" aria-required="true" placeholder="password" type="password" />
+                        <span class="input-group-text" id="passwordToggle" aria-controls="Input_Password" role="button" tabindex="0">
+                            <i class="fas fa-eye"></i>
+                        </span>
+                    </div>
+                    <div id="passwordStrength">
+                        <div class="strength-bar"></div>
+                        <div class="strength-bar"></div>
+                        <div class="strength-bar"></div>
+                        <span id="passwordMessage"></span>
+                    </div>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-check mb-3">
+                    <label asp-for="Input.RememberMe" class="form-check-label">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </div>
+                <div class="text-center">
+                    <button id="login-submit" type="submit" class="btn btn-primary btn-lg w-100">Connexion</button>
+                </div>
+                <div class="text-center mt-3">
+                    <p>
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-decoration-none" style="font-size:20px">vous n'avez pas encore de compte? <span style="font-weight:600">Inscription</span> </a>
+                    </p>
+                </div>
+                @* <div class="text-center mt-3">
+                @*     <p> *@
+                @*         <a id="forgot-password" asp-page="./ForgotPassword" class="text-decoration-none">Forgot your password?</a> *@
+                @*     </p> *@
+                @*     <p> *@
+                @*         <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-decoration-none">vous n'avez pas encore de compte? Inscription</a> *@
+                @*     </p> *@
+                @*     <p> *@
+                @*         <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="text-decoration-none">Resend email confirmation</a> *@
+                @*     </p> *@
+                @* </div> *@
+            </form>
+        </section>
+    </div>
+    <!-- Background Image Column -->
+    <div class="col-lg-6 d-flex align-items-center justify-content-center">
+        <img src="~/image/bgLogin.svg" class="img-fluid" alt="Login Background" />
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<script>
+                                document.getElementById('passwordToggle').addEventListener('click', function () {
+        var passwordInput = document.getElementById('Input_Password');
+        if (passwordInput.type === "password") {
+            passwordInput.type = "text";
+            this.querySelector('i').classList.replace('fa-eye', 'fa-eye-slash');
+        } else {
+            passwordInput.type = "password";
+            this.querySelector('i').classList.replace('fa-eye-slash', 'fa-eye');
+        }
+    });
+
+        function updatePasswordStrength(password) {
+        var strength = 0;
+        // Check for lowercase letters
+        if (password.match(/[a-z]/)) strength++;
+        // Check for uppercase letters
+        if (password.match(/[A-Z]/)) strength++;
+        // Check for numbers
+        if (password.match(/\d/)) strength++;
+        // Check for special characters
+        if (password.match(/[^a-zA-Z\d]/)) strength++;
+        // Check for minimum length
+        if (password.length >= 8) strength++;
+
+        // Calculate strength level
+        var level;
+        if (strength >= 3) {
+            level = 'strong';
+        } else if (strength >= 2) {
+            level = 'medium';
+        } else {
+            level = 'weak';
+        }
+
+        // Update strength bars
+        var bars = document.querySelectorAll('#passwordStrength .strength-bar');
+        bars.forEach(function(bar, index) {
+            if (index < strength) {
+                bar.style.backgroundColor = level === 'strong' ? 'green' : level === 'medium' ? 'yellow' : 'red';
+            } else {
+                bar.style.backgroundColor = '#D9D9D9'; // Gray for inactive bars
+            }
+        });
+
+    var message;
+    if (password === '') {
+        message = '';
+    } else if (level === 'strong') {
+        message = "Votre mot de passe est fort.";
+    } else if (level === 'medium') {
+        message = "Votre mot de passe est passable.";
+    } else {
+        message = "Votre mot de passe est faible.";
+    }
+
+    document.getElementById('passwordMessage').innerHTML = message;
+    }
+
+    // Attach event listener to password input
+    document.getElementById('Input_Password').addEventListener('input', function() {
+        var password = this.value;
+        updatePasswordStrength(password);
+    });
+</script>

@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+/* Ensure the row takes full height */
+.row {
+    height: 100vh;
+}
+
+/* Style the form labels and inputs */
+.form-label {
+    font-weight: 600;
+    font-size: 24px;
+    color: #0D1321;
+}
+
+/* Style the login button */
+.btn-primary {
+    background-color: #0D1321;
+    border-color: #0D1321;
+}
+
+    /* Hover effect for the login button */
+    .btn-primary:hover {
+        background-color: #141B34;
+        border-color: #141B34;
+    }
+
+/* Style the links */
+.text-center a {
+    color: #0D1321;
+    font-size: 24px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .col-lg-6 {
+        width: 100%;
+    }
+        /* Stack the columns on smaller screens */
+        .col-lg-6:nth-child(2) {
+            order: 1;
+        }
+
+        .col-lg-6:nth-child(1) {
+            order: 0;
+        }
+}
+
+.custom-input {
+    border-color: #CCCCCC;
+}
+
+.custom-input:focus {
+        border-color: #424342;
+    }
+#passwordStrength {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 0 0 10px;
+    gap: 10px;
+    width: 530px;
+    height: 16px;
+}
+
+/* Strength bar styles */
+.strength-bar {
+    width: 50px;
+    height: 5px;
+    border-radius: 50px;
+}
+
+    .strength-bar:first-child {
+        flex: none;
+    }
+
+    .strength-bar:nth-child(2) {
+        flex: none;
+    }
+    .strength-bar:nth-child(3) {
+        flex: none;
+    }
+
+    .strength-bar:last-child {
+        flex: none;
+        order: 3;
+    }
+#passwordStrength {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#passwordMessage {
+    font-size: 13px;
+    color: #0D1321;
+}
