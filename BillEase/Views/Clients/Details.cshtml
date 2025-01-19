@@ -1,0 +1,20 @@
+﻿@model BillEase.Models.Client
+
+
+<div class="content">
+    <div class="details-card">
+        <div class="details-title">
+            <h2>Détails du Client</h2>
+        </div>
+        <div class="details-content">
+            <p><span class="details-label">Nom:</span> @Model.Nom</p>
+            <p><span class="details-label">Adresse:</span> @Model.Adresse</p>
+            <p><span class="details-label">Téléphone:</span> @Model.Telephone</p>
+        </div>
+        <div class="text-right">
+            <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Modifier</a>
+            <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Supprimer</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,94 @@
+﻿@model IEnumerable<BillEase.Models.Client>
+
+@{
+    ViewData["Title"] = "Liste des Clients";
+    int pageNumber = (int)ViewBag.PageNumber;
+    int totalPages = (int)ViewBag.TotalPages;
+    string searchString = ViewBag.SearchString;
+}
+
+<div style="display:flex;justify-content:space-between; margin:30px 0">
+    <div style="display:flex; align-items:center; justify-content:center">
+        <img src="~/image/dashboard-square-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+        <img src="~/image/arrow-up-01.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+        <span style="color:#406EB7;font-size: 18px">Clients</span>
+    </div>
+
+    <div>
+        <img src="~/image/pp.jpg" alt="Alternate Text" style="width:40px; height: 40px;border-radius:50%" />
+        <span style="color:#406EB7;font-size: 18px">
+            @User.Identity?.Name
+        </span>
+    </div>
+</div>
+
+<div style="background-color:#ffffff; height: 75vh; border-radius: 20px; padding: 20px 20px">
+    <div style="display:flex;flex-direction:row; justify-content:space-between; align-items:center; margin-bottom:20px">
+        <p class="text-right m-0">
+            <a asp-action="Create" class="btn btn-outline-primary">Créer un client</a>
+        </p>
+
+        <div style="border:1px solid #cccccc;border-radius:15px; padding: 10px 15px;">
+            <img src="~/image/search-01.svg" alt="search-01.svg" />
+            <input type="search" name="searchString" value="@ViewBag.SearchString" class="form-control" placeholder="Rechercher par nom..." style="border: none; background-color:transparent; outline:none" />
+            <button type="submit" class="btn btn-primary">Rechercher</button>   
+        </div>
+    </div>
+    
+    <table class="table table-custom">
+        <thead style="font-family:IBM Plex Sans;">
+            <tr>
+                <th>No</th>
+                <th>Nom</th>
+                <th>Adresse</th>
+                <th>Téléphone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var client in Model)
+            {
+                <tr data-id="@client.Id" class="clickable-row">
+                    <td>@client.Id</td>
+                    <td>@client.Nom</td>
+                    <td>@client.Adresse</td>
+                    <td>@client.Telephone</td>
+                    <td class="action-links">
+                        <a asp-action="Edit" asp-route-id="@client.Id">
+                            <img src="~/image/pencil-edit-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@client.Id">
+                            <img src="~/image/delete-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div>
+        @if (pageNumber > 1)
+        {
+            <a href="@Url.Action("Index", new { page = pageNumber - 1, searchString = searchString })" class="btn btn-primary">Précédent</a>
+        }
+        @if (pageNumber < totalPages)
+        {
+            <a href="@Url.Action("Index", new { page = pageNumber + 1, searchString = searchString })" class="btn btn-primary">Suivant</a>
+        }
+    </div>
+
+
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.clickable-row').click(function () {
+                var clientId = $(this).data('id');
+                window.location.href = '@Url.Action("Details", "Clients")/' + clientId; // Redirige vers la page de détails
+            });
+        });
+    </script>
+}

@@ -16,8 +16,6 @@ namespace BillEase
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
@@ -32,7 +30,6 @@ namespace BillEase
             else
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
@@ -41,17 +38,24 @@ namespace BillEase
 
             app.UseRouting();
 
+            app.UseAuthentication(); // Ajoutez cette ligne
             app.UseAuthorization();
+
+            // Redirection vers la page de connexion si l'utilisateur n'est pas authentifié
+            app.MapGet("/", async context =>
+            {
+                if (!context.User.Identity.IsAuthenticated)
+                {
+                    context.Response.Redirect("/Identity/Account/Login");
+                    return;
+                }
+                context.Response.Redirect("/Home/Index");
+            });
 
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
-            app.MapGet("/", context =>
-            {
-                context.Response.Redirect("/Identity/Account/Login");
-                return Task.CompletedTask;
-            });
             app.MapRazorPages();
 
             app.Run();

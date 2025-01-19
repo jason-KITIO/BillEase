@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|c:\\users\\jason kitio\\documents\\cours lipro\\exercices\\billease\\billease\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D09D476-362E-4EEA-87D9-7F62BFD7779E}|BillEase\\BillEase.csproj|solutionrelative:billease\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,63 +46,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BillEase\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BillEase\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-16T02:55:50.656Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "BillEase\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "BillEase\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:38:20.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "BillEase\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "BillEase\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T13:28:31.528Z",
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "BillEase\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "BillEase\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:59:46.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "BillEase\\Views\\Clients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Details.cshtml",
+              "RelativeToolTip": "BillEase\\Views\\Clients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:56:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BillEase\\Views\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "BillEase\\Views\\Clients\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:55:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BillEase\\Views\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "BillEase\\Views\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:52:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BillEase\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BillEase\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:02:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BillEase\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BillEase\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAANEAAAAAAAAAAAAQwOkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T22:52:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BillEase\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BillEase\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T02:57:00.776Z",
+              "WhenOpened": "2025-01-18T22:38:19.964Z",
               "EditorCaption": ""
             },
             {
@@ -109,48 +151,22 @@
               "RelativeDocumentMoniker": "BillEase\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BillEase\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T02:38:11.207Z",
+              "WhenOpened": "2025-01-18T22:37:48.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "BillEase\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "BillEase\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "BillEase\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "BillEase\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T02:30:26.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BillEase\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BillEase\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-16T02:30:14.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BillEase\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "BillEase\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T02:25:14.002Z",
+              "WhenOpened": "2025-01-18T22:37:31.887Z",
               "EditorCaption": ""
             }
           ]

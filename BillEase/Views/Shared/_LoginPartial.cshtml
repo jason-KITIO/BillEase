@@ -10,7 +10,30 @@
     </li>
     <li class="nav-item">
         <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                <button type="button" onclick="Cancel()" class="nav-link text-dark">Logout</button>
+                <!-- Modal de confirmation -->
+                <div id="modal" style="position : absolute;z-index:999;left: 0;top: 0;bottom:0;background: rgba(34, 48, 73, 0.5);right: 0;height: 100vh;width: 100vw;display: none;">
+                    <div class="modal-dialog" style=" position : relative; left: 0vw; top: 30vh; border:none">
+                        <div class="modal-content" style="background: #223049;">
+                            <div class="modal-header" style="border:none">
+                                <h5 class="modal-title" style="color: #ADADAD" id="logoutModalLabel">Confirmation</h5>
+                                <button type="button" style="border:none; background:transparent" onclick="Cancel()">
+                                    @* <span aria-hidden="true">&times;</span> *@
+                                    <img src="~/image/close.svg" alt="close"/>
+                                </button>
+                            </div>
+                            <div class="modal-body" style="border:none;color: #ADADAD">
+                                Êtes-vous sûr de vouloir vous déconnecter ?
+                            </div>
+                            <div class="modal-footer" style="border:none">
+                                <button type="button" class="btn btn-primary" onclick="Cancel()">Annuler</button>
+                                <button type="submit" class="btn" style="border:1px solid #ADADAD; border-radius: 8px; color:#ADADAD;font-weight:600">Déconnexion</button>
+                                <!-- Formulaire de déconnexion -->
+                                    @* <button type="submit" class="nav-link btn btn-link text-dark">Logout</button> *@
+                            </div>
+                        </div>
+                    </div>
+                </div>
         </form>
     </li>
 }
@@ -24,3 +47,14 @@ else
     </li>
 }
 </ul>
+
+                                <script>
+                                    function Cancel() {
+        var div = document.getElementById("modal");
+        if (div.style.display === "none" || div.style.display === "") {
+            div.style.display = "block"; // Afficher la div
+        } else {
+            div.style.display = "none"; // Masquer la div
+        }
+    }
+                                </script>

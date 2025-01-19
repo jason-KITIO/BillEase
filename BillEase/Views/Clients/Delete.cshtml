@@ -1,0 +1,56 @@
+﻿@model BillEase.Models.Client
+
+@{
+    ViewData["Title"] = "Edit Clients";
+}
+
+<div style="display:flex;justify-content:space-between; margin:30px 0">
+    <div style="display:flex; align-items:center; justify-content:center">
+        <img src="~/image/dashboard-square-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+        <img src="~/image/arrow-up-01.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+        <span style="color:#406EB7;font-size: 18px">Clients</span>
+        <img src="~/image/arrow-up-01.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+        <span style="color:#406EB7;font-size: 18px">New</span>
+    </div>
+
+    <div>
+        <img src="~/image/pp.jpg" alt="Alternate Text" style="width:40px; height: 40px;border-radius:50%" />
+        <span style="color:#406EB7;font-size: 18px">
+            @User.Identity?.Name
+        </span>
+    </div>
+</div>
+
+<div style="background-color:#ffffff; height: 75vh; border-radius: 20px; padding: 20px 20px">
+
+    <h1>Supprimer le Client</h1>
+
+    <p>Êtes-vous sûr de vouloir supprimer ce client ?</p>
+    <div class="details-content">
+        <p><span class="details-label">Nom:</span> <h4>@Model.Nom</h4> </p>
+        <p><span class="details-label">Adresse:</span> <h4>@Model.Adresse</h4> </p>
+        <p><span class="details-label">Téléphone:</span> <h4>@Model.Telephone</h4> </p>
+     </div>
+
+    <form asp-action="Delete" style="display:flex; flex-direction: column; gap:20px">
+        @Html.HiddenFor(model => model.Id)
+        
+        <div style ="display:flex; flex-direction: row; gap:20px">
+            <button type="submit" class="btn btn-danger" style="padding: 10px 70px">Supprimer</button>
+            <a asp-action="Index" class="btn btn-outline-primary" style="padding: 10px 40px">Annuler</a>
+        </div>
+    </form>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.clickable-row').click(function () {
+                var clientId = $(this).data('id');
+                window.location.href = '@Url.Action("Details", "Clients")/' + clientId; // Redirige vers la page de détails
+            });
+        });
+    </script>
+}

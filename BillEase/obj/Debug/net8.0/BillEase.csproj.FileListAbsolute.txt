@@ -295,3 +295,6 @@ C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug
 C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\obj\Debug\net8.0\BillEase.sourcelink.json
+C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Jason Kitio\Documents\Cours Lipro\exercices\BillEase\BillEase\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll

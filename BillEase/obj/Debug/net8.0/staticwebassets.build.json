@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cmu6n+eKDEJvwoSkSHlHocKa+Ol6xy5qJeh942LFONw=",
+  "Hash": "gnBrnXj6lIxIV4TkG621ZscXud8Fd9N9A9XXZY2I8IM=",
   "Source": "BillEase",
   "BasePath": "_content/BillEase",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dmppcon3q2",
-      "Integrity": "C5YDAIaMAbaHPhYExSd64GX0k4sWSxE+6z93hLj8SLs=",
+      "Fingerprint": "8fhpjr753f",
+      "Integrity": "jOwXc7LwR5ajlHoW0I5xDA/KRnD80L5wiHd9JT+boD0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1361,12 +1361,54 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.png",
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\arrow-up-01.svg",
       "SourceId": "BillEase",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
       "BasePath": "_content/BillEase",
-      "RelativePath": "image/bgInscription#[.{fingerprint}]?.png",
+      "RelativePath": "image/arrow-up-01#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9cwjg4bybk",
+      "Integrity": "hwX45AF0FyKlpkZbwFgnVH9iqYTmhfWqmTI4RLjuOLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\arrow-up-01.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bg.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/bg#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "53tpmo299y",
+      "Integrity": "fwqrdfwTp9yVmqIMJsPln4PTmnu56t0OnTs4iG7WOGU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\bg.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/bgInscription#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1379,7 +1421,7 @@
       "Integrity": "5YywhzlJSq4/OMcM5E28IX63SezIIWKbTroAbHPTj6w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bgInscription.png"
+      "OriginalItemSpec": "wwwroot\\image\\bgInscription.svg"
     },
     {
       "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgLogin.svg",
@@ -1403,6 +1445,132 @@
       "OriginalItemSpec": "wwwroot\\image\\bgLogin.svg"
     },
     {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\chart-average.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/chart-average#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l92cshoij3",
+      "Integrity": "h+m7mWAeHm6bYN3uDa67+DjFBhtjabnhLMHf8GgL/a8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\chart-average.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\close.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/close#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brlp3okigu",
+      "Integrity": "Zz2EfCaa8g4iyYnJTad3d5m13+Rifhb95gJg5XFy5+o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\close.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\customer-support.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/customer-support#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tphufltdjs",
+      "Integrity": "z1dJL6SNGePG/cG+DYUdQY/80sLmwKRFqUDdNcHVi2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\customer-support.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\dashboard-square-02.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/dashboard-square-02#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5iz9tgiaf3",
+      "Integrity": "A8eufaueE8qsb1jf96gN5BQl5S8O95Ogxpv4Ml49P94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\dashboard-square-02.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\delete-02.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/delete-02#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70t4qjn0v6",
+      "Integrity": "KZ5mG6pN3RPieBMQ35ysqG5cC85tlGgi6UAy7ALwGJ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\delete-02.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\invoice-03.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/invoice-03#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "156u4iqosg",
+      "Integrity": "a9mKyq3uBLXPfDXBpQ96ZLfMd62pB5V+gY5+pPKHqos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\invoice-03.svg"
+    },
+    {
       "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logo.svg",
       "SourceId": "BillEase",
       "SourceType": "Discovered",
@@ -1417,11 +1585,137 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ofgiem6ohh",
-      "Integrity": "tGkjs6pJuDxPrQ6CBnSxV+akLqaLDCpFIw7QLKMyBvU=",
+      "Fingerprint": "769czu5rfy",
+      "Integrity": "kfvTGwLDRPSZZmhbtdsL8IP4HJl2+kn37aXtDK/uMIs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\logo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logout-01.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/logout-01#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wyh4ptwlxy",
+      "Integrity": "+MDeEf7aJhQmjmDE2tkbWNBBFICfA82XWlVV/OAz8uQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\logout-01.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pencil-edit-02.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/pencil-edit-02#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxkkjvujn6",
+      "Integrity": "++leFmIaYZXw9MWnWpilatCME08qAIWYP3qYDBOChfc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\pencil-edit-02.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pp.jpg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/pp#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0houlo6ko4",
+      "Integrity": "ZMw+b08EkFtRO4A92ESg1nlL02rMSV4ZjZYvyRehXp8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\pp.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\search-01.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/search-01#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y3395ywcfd",
+      "Integrity": "ApvvB0KLGIrK3wEVa+yb4/oGBT90GDFBd+qkbIPWUeQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\search-01.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\settings-02.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/settings-02#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iye7ap211j",
+      "Integrity": "hgo3TbyMx6GcgPQWBiPAg1r9xISXVOgkFbTx4UXaD/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\settings-02.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\shopping-cart-01.svg",
+      "SourceId": "BillEase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\",
+      "BasePath": "_content/BillEase",
+      "RelativePath": "image/shopping-cart-01#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "am1pogzyw4",
+      "Integrity": "jiOZ9q0YitKvWzfvK7qGzyLeBrbiNHIxiGguJguKarw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\shopping-cart-01.svg"
     },
     {
       "Identity": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\js\\site.js",
@@ -2808,6 +3102,51 @@
       ]
     },
     {
+      "Route": "css/site.8fhpjr753f.css",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOwXc7LwR5ajlHoW0I5xDA/KRnD80L5wiHd9JT+boD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 00:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8fhpjr753f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOwXc7LwR5ajlHoW0I5xDA/KRnD80L5wiHd9JT+boD0="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2818,7 +3157,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2178"
+          "Value": "4783"
         },
         {
           "Name": "Content-Type",
@@ -2826,11 +3165,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C5YDAIaMAbaHPhYExSd64GX0k4sWSxE+6z93hLj8SLs=\""
+          "Value": "\"jOwXc7LwR5ajlHoW0I5xDA/KRnD80L5wiHd9JT+boD0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 13:24:39 GMT"
+          "Value": "Sun, 19 Jan 2025 00:43:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2840,52 +3179,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C5YDAIaMAbaHPhYExSd64GX0k4sWSxE+6z93hLj8SLs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dmppcon3q2.css",
-      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2178"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C5YDAIaMAbaHPhYExSd64GX0k4sWSxE+6z93hLj8SLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 13:24:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dmppcon3q2"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-C5YDAIaMAbaHPhYExSd64GX0k4sWSxE+6z93hLj8SLs="
+          "Value": "sha256-jOwXc7LwR5ajlHoW0I5xDA/KRnD80L5wiHd9JT+boD0="
         }
       ]
     },
@@ -5192,8 +5486,172 @@
       ]
     },
     {
-      "Route": "image/bgInscription.png",
-      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.png",
+      "Route": "image/arrow-up-01.9cwjg4bybk.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\arrow-up-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwX45AF0FyKlpkZbwFgnVH9iqYTmhfWqmTI4RLjuOLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 23:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9cwjg4bybk"
+        },
+        {
+          "Name": "label",
+          "Value": "image/arrow-up-01.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwX45AF0FyKlpkZbwFgnVH9iqYTmhfWqmTI4RLjuOLM="
+        }
+      ]
+    },
+    {
+      "Route": "image/arrow-up-01.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\arrow-up-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwX45AF0FyKlpkZbwFgnVH9iqYTmhfWqmTI4RLjuOLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 23:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwX45AF0FyKlpkZbwFgnVH9iqYTmhfWqmTI4RLjuOLM="
+        }
+      ]
+    },
+    {
+      "Route": "image/bg.53tpmo299y.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bg.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwqrdfwTp9yVmqIMJsPln4PTmnu56t0OnTs4iG7WOGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 12:25:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "53tpmo299y"
+        },
+        {
+          "Name": "label",
+          "Value": "image/bg.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwqrdfwTp9yVmqIMJsPln4PTmnu56t0OnTs4iG7WOGU="
+        }
+      ]
+    },
+    {
+      "Route": "image/bg.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bg.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fwqrdfwTp9yVmqIMJsPln4PTmnu56t0OnTs4iG7WOGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 12:25:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fwqrdfwTp9yVmqIMJsPln4PTmnu56t0OnTs4iG7WOGU="
+        }
+      ]
+    },
+    {
+      "Route": "image/bgInscription.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5206,7 +5664,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
@@ -5214,7 +5672,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 13:30:33 GMT"
+          "Value": "Fri, 17 Jan 2025 23:17:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5229,8 +5687,8 @@
       ]
     },
     {
-      "Route": "image/bgInscription.tm326mjc2k.png",
-      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.png",
+      "Route": "image/bgInscription.tm326mjc2k.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5243,7 +5701,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
@@ -5251,7 +5709,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 13:30:33 GMT"
+          "Value": "Fri, 17 Jan 2025 23:17:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5265,7 +5723,7 @@
         },
         {
           "Name": "label",
-          "Value": "image/bgInscription.png"
+          "Value": "image/bgInscription.svg"
         },
         {
           "Name": "integrity",
@@ -5356,8 +5814,8 @@
       ]
     },
     {
-      "Route": "image/logo.ofgiem6ohh.svg",
-      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logo.svg",
+      "Route": "image/chart-average.l92cshoij3.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\chart-average.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5366,7 +5824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73194"
+          "Value": "623"
         },
         {
           "Name": "Content-Type",
@@ -5374,11 +5832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tGkjs6pJuDxPrQ6CBnSxV+akLqaLDCpFIw7QLKMyBvU=\""
+          "Value": "\"h+m7mWAeHm6bYN3uDa67+DjFBhtjabnhLMHf8GgL/a8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 12:45:03 GMT"
+          "Value": "Sat, 18 Jan 2025 22:18:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5388,7 +5846,499 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ofgiem6ohh"
+          "Value": "l92cshoij3"
+        },
+        {
+          "Name": "label",
+          "Value": "image/chart-average.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h+m7mWAeHm6bYN3uDa67+DjFBhtjabnhLMHf8GgL/a8="
+        }
+      ]
+    },
+    {
+      "Route": "image/chart-average.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\chart-average.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h+m7mWAeHm6bYN3uDa67+DjFBhtjabnhLMHf8GgL/a8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h+m7mWAeHm6bYN3uDa67+DjFBhtjabnhLMHf8GgL/a8="
+        }
+      ]
+    },
+    {
+      "Route": "image/close.brlp3okigu.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\close.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zz2EfCaa8g4iyYnJTad3d5m13+Rifhb95gJg5XFy5+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:02:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brlp3okigu"
+        },
+        {
+          "Name": "label",
+          "Value": "image/close.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zz2EfCaa8g4iyYnJTad3d5m13+Rifhb95gJg5XFy5+o="
+        }
+      ]
+    },
+    {
+      "Route": "image/close.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\close.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zz2EfCaa8g4iyYnJTad3d5m13+Rifhb95gJg5XFy5+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:02:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zz2EfCaa8g4iyYnJTad3d5m13+Rifhb95gJg5XFy5+o="
+        }
+      ]
+    },
+    {
+      "Route": "image/customer-support.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\customer-support.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z1dJL6SNGePG/cG+DYUdQY/80sLmwKRFqUDdNcHVi2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z1dJL6SNGePG/cG+DYUdQY/80sLmwKRFqUDdNcHVi2o="
+        }
+      ]
+    },
+    {
+      "Route": "image/customer-support.tphufltdjs.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\customer-support.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z1dJL6SNGePG/cG+DYUdQY/80sLmwKRFqUDdNcHVi2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tphufltdjs"
+        },
+        {
+          "Name": "label",
+          "Value": "image/customer-support.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z1dJL6SNGePG/cG+DYUdQY/80sLmwKRFqUDdNcHVi2o="
+        }
+      ]
+    },
+    {
+      "Route": "image/dashboard-square-02.5iz9tgiaf3.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\dashboard-square-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A8eufaueE8qsb1jf96gN5BQl5S8O95Ogxpv4Ml49P94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5iz9tgiaf3"
+        },
+        {
+          "Name": "label",
+          "Value": "image/dashboard-square-02.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A8eufaueE8qsb1jf96gN5BQl5S8O95Ogxpv4Ml49P94="
+        }
+      ]
+    },
+    {
+      "Route": "image/dashboard-square-02.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\dashboard-square-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A8eufaueE8qsb1jf96gN5BQl5S8O95Ogxpv4Ml49P94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A8eufaueE8qsb1jf96gN5BQl5S8O95Ogxpv4Ml49P94="
+        }
+      ]
+    },
+    {
+      "Route": "image/delete-02.70t4qjn0v6.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\delete-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KZ5mG6pN3RPieBMQ35ysqG5cC85tlGgi6UAy7ALwGJ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 00:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70t4qjn0v6"
+        },
+        {
+          "Name": "label",
+          "Value": "image/delete-02.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZ5mG6pN3RPieBMQ35ysqG5cC85tlGgi6UAy7ALwGJ0="
+        }
+      ]
+    },
+    {
+      "Route": "image/delete-02.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\delete-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KZ5mG6pN3RPieBMQ35ysqG5cC85tlGgi6UAy7ALwGJ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 00:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KZ5mG6pN3RPieBMQ35ysqG5cC85tlGgi6UAy7ALwGJ0="
+        }
+      ]
+    },
+    {
+      "Route": "image/invoice-03.156u4iqosg.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\invoice-03.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9mKyq3uBLXPfDXBpQ96ZLfMd62pB5V+gY5+pPKHqos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "156u4iqosg"
+        },
+        {
+          "Name": "label",
+          "Value": "image/invoice-03.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9mKyq3uBLXPfDXBpQ96ZLfMd62pB5V+gY5+pPKHqos="
+        }
+      ]
+    },
+    {
+      "Route": "image/invoice-03.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\invoice-03.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9mKyq3uBLXPfDXBpQ96ZLfMd62pB5V+gY5+pPKHqos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9mKyq3uBLXPfDXBpQ96ZLfMd62pB5V+gY5+pPKHqos="
+        }
+      ]
+    },
+    {
+      "Route": "image/logo.769czu5rfy.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kfvTGwLDRPSZZmhbtdsL8IP4HJl2+kn37aXtDK/uMIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:22:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "769czu5rfy"
         },
         {
           "Name": "label",
@@ -5396,7 +6346,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tGkjs6pJuDxPrQ6CBnSxV+akLqaLDCpFIw7QLKMyBvU="
+          "Value": "sha256-kfvTGwLDRPSZZmhbtdsL8IP4HJl2+kn37aXtDK/uMIs="
         }
       ]
     },
@@ -5411,7 +6361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73194"
+          "Value": "56421"
         },
         {
           "Name": "Content-Type",
@@ -5419,11 +6369,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tGkjs6pJuDxPrQ6CBnSxV+akLqaLDCpFIw7QLKMyBvU=\""
+          "Value": "\"kfvTGwLDRPSZZmhbtdsL8IP4HJl2+kn37aXtDK/uMIs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 12:45:03 GMT"
+          "Value": "Sat, 18 Jan 2025 13:22:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5433,7 +6383,499 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tGkjs6pJuDxPrQ6CBnSxV+akLqaLDCpFIw7QLKMyBvU="
+          "Value": "sha256-kfvTGwLDRPSZZmhbtdsL8IP4HJl2+kn37aXtDK/uMIs="
+        }
+      ]
+    },
+    {
+      "Route": "image/logout-01.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logout-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MDeEf7aJhQmjmDE2tkbWNBBFICfA82XWlVV/OAz8uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:15:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MDeEf7aJhQmjmDE2tkbWNBBFICfA82XWlVV/OAz8uQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/logout-01.wyh4ptwlxy.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logout-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+MDeEf7aJhQmjmDE2tkbWNBBFICfA82XWlVV/OAz8uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:15:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyh4ptwlxy"
+        },
+        {
+          "Name": "label",
+          "Value": "image/logout-01.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+MDeEf7aJhQmjmDE2tkbWNBBFICfA82XWlVV/OAz8uQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/pencil-edit-02.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pencil-edit-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++leFmIaYZXw9MWnWpilatCME08qAIWYP3qYDBOChfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 00:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-++leFmIaYZXw9MWnWpilatCME08qAIWYP3qYDBOChfc="
+        }
+      ]
+    },
+    {
+      "Route": "image/pencil-edit-02.xxkkjvujn6.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pencil-edit-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"++leFmIaYZXw9MWnWpilatCME08qAIWYP3qYDBOChfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 00:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxkkjvujn6"
+        },
+        {
+          "Name": "label",
+          "Value": "image/pencil-edit-02.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-++leFmIaYZXw9MWnWpilatCME08qAIWYP3qYDBOChfc="
+        }
+      ]
+    },
+    {
+      "Route": "image/pp.0houlo6ko4.jpg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMw+b08EkFtRO4A92ESg1nlL02rMSV4ZjZYvyRehXp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Nov 2024 23:24:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0houlo6ko4"
+        },
+        {
+          "Name": "label",
+          "Value": "image/pp.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMw+b08EkFtRO4A92ESg1nlL02rMSV4ZjZYvyRehXp8="
+        }
+      ]
+    },
+    {
+      "Route": "image/pp.jpg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMw+b08EkFtRO4A92ESg1nlL02rMSV4ZjZYvyRehXp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Nov 2024 23:24:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMw+b08EkFtRO4A92ESg1nlL02rMSV4ZjZYvyRehXp8="
+        }
+      ]
+    },
+    {
+      "Route": "image/search-01.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\search-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ApvvB0KLGIrK3wEVa+yb4/oGBT90GDFBd+qkbIPWUeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 23:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ApvvB0KLGIrK3wEVa+yb4/oGBT90GDFBd+qkbIPWUeQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/search-01.y3395ywcfd.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\search-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ApvvB0KLGIrK3wEVa+yb4/oGBT90GDFBd+qkbIPWUeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 23:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y3395ywcfd"
+        },
+        {
+          "Name": "label",
+          "Value": "image/search-01.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ApvvB0KLGIrK3wEVa+yb4/oGBT90GDFBd+qkbIPWUeQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/settings-02.iye7ap211j.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\settings-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgo3TbyMx6GcgPQWBiPAg1r9xISXVOgkFbTx4UXaD/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iye7ap211j"
+        },
+        {
+          "Name": "label",
+          "Value": "image/settings-02.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgo3TbyMx6GcgPQWBiPAg1r9xISXVOgkFbTx4UXaD/8="
+        }
+      ]
+    },
+    {
+      "Route": "image/settings-02.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\settings-02.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgo3TbyMx6GcgPQWBiPAg1r9xISXVOgkFbTx4UXaD/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgo3TbyMx6GcgPQWBiPAg1r9xISXVOgkFbTx4UXaD/8="
+        }
+      ]
+    },
+    {
+      "Route": "image/shopping-cart-01.am1pogzyw4.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\shopping-cart-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jiOZ9q0YitKvWzfvK7qGzyLeBrbiNHIxiGguJguKarw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "am1pogzyw4"
+        },
+        {
+          "Name": "label",
+          "Value": "image/shopping-cart-01.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jiOZ9q0YitKvWzfvK7qGzyLeBrbiNHIxiGguJguKarw="
+        }
+      ]
+    },
+    {
+      "Route": "image/shopping-cart-01.svg",
+      "AssetFile": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\shopping-cart-01.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jiOZ9q0YitKvWzfvK7qGzyLeBrbiNHIxiGguJguKarw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 22:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jiOZ9q0YitKvWzfvK7qGzyLeBrbiNHIxiGguJguKarw="
         }
       ]
     },

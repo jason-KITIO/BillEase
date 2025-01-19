@@ -13,16 +13,72 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.png",
-      "PackagePath": "staticwebassets\\image\\bgInscription.png"
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\arrow-up-01.svg",
+      "PackagePath": "staticwebassets\\image\\arrow-up-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bg.svg",
+      "PackagePath": "staticwebassets\\image\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgInscription.svg",
+      "PackagePath": "staticwebassets\\image\\bgInscription.svg"
     },
     {
       "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\bgLogin.svg",
       "PackagePath": "staticwebassets\\image\\bgLogin.svg"
     },
     {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\chart-average.svg",
+      "PackagePath": "staticwebassets\\image\\chart-average.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\close.svg",
+      "PackagePath": "staticwebassets\\image\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\customer-support.svg",
+      "PackagePath": "staticwebassets\\image\\customer-support.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\dashboard-square-02.svg",
+      "PackagePath": "staticwebassets\\image\\dashboard-square-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\delete-02.svg",
+      "PackagePath": "staticwebassets\\image\\delete-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\invoice-03.svg",
+      "PackagePath": "staticwebassets\\image\\invoice-03.svg"
+    },
+    {
       "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logo.svg",
       "PackagePath": "staticwebassets\\image\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\logout-01.svg",
+      "PackagePath": "staticwebassets\\image\\logout-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pencil-edit-02.svg",
+      "PackagePath": "staticwebassets\\image\\pencil-edit-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\pp.jpg",
+      "PackagePath": "staticwebassets\\image\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\search-01.svg",
+      "PackagePath": "staticwebassets\\image\\search-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\settings-02.svg",
+      "PackagePath": "staticwebassets\\image\\settings-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\image\\shopping-cart-01.svg",
+      "PackagePath": "staticwebassets\\image\\shopping-cart-01.svg"
     },
     {
       "Id": "C:\\Users\\Jason Kitio\\Documents\\Cours Lipro\\exercices\\BillEase\\BillEase\\wwwroot\\js\\site.js",

@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="~/BillEase.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 </head>
-<body>
+<body style="background-image:url('/image/bg.svg');">
     @* <header> *@
     @*     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3"> *@
     @*         <div class="container-fluid"> *@
@@ -33,19 +34,108 @@
     @*         </div> *@
     @*     </nav> *@
     @* </header> *@
-    <div>
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+
+    <div style="display:flex; flex-direction:row; width:100vw; height: 100vh;">
+        <div class="sidebar" style="display:flex; flex-direction:column; justify-content:space-between;padding:30px 0;">
+            <img src="~/image/logo.svg" alt="logo" style=" padding-left:20px; width: 200px" />
+            <div>
+                <a asp-controller="Home" asp-action="Index">
+                    <div style="display:flex;align-items:center;gap:10px">
+                        <img src="~/image/dashboard-square-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Dashboards</span>
+                    </div>
+                </a>
+                <a asp-controller="Factures" asp-action="Index">
+                    <div>
+                        <img src="~/image/invoice-03.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Factures</span>
+                    </div>
+                </a>
+                <a asp-controller="Commandes" asp-action="Index">
+                    <div>
+                        <img src="~/image/shopping-cart-01.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Commandes</span>
+                    </div>
+                </a>
+                <a asp-controller="Commandes" asp-action="Index">
+                    <div>
+                        <img src="~/image/chart-average.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Rapports</span>
+                    </div>
+                </a>
+                <a asp-controller="Clients" asp-action="Index">
+                    <div>
+                        <img src="~/image/customer-support.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Clients</span>
+                    </div>
+                </a>
+            </div>
+            <div>
+                <a asp-controller="Clients" asp-action="Index">
+                    <div>
+                        <img src="~/image/settings-02.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Setttings</span>
+                    </div>
+                </a>
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                        @* <button type="button" onclick="Cancel()" class="nav-link text-dark">Logout</button> *@
+                    <div onclick="Cancel()" class="lien">
+                        <img src="~/image/logout-01.svg" alt="Alternate Text" style="width:24px; height: 24px" />
+                        <span>Deconnexion</span>
+                    </div>
+                        <!-- Modal de confirmation -->
+                        <div id="modal" style="position : absolute;z-index:999;left: 0;top: 0;bottom:0;background: rgba(34, 48, 73, 0.5);right: 0;height: 100vh;width: 100vw;display: none;">
+                            <div class="modal-dialog" style=" position : relative; left: 0vw; top: 30vh; border:none">
+                                <div class="modal-content" style="background: #fff;">
+                                    <div class="modal-header" style="border:none">
+                                        <h5 class="modal-title" style="color: #000" id="logoutModalLabel">Confirmation</h5>
+                                        <button type="button" style="border:none; background:transparent" onclick="Cancel()">
+                                            @* <span aria-hidden="true">&times;</span> *@
+                                            <img src="~/image/close.svg" alt="close" />
+                                        </button>
+                                    </div>
+                                    <div class="modal-body" style="border:none;color: #000">
+                                        Êtes-vous sûr de vouloir vous déconnecter ?
+                                    </div>
+                                    <div class="modal-footer" style="border:none">
+                                        <button type="button" class="btn btn-primary" onclick="Cancel()">Annuler</button>
+                                        <button type="submit" class="btn" style="border:1px solid #ADADAD; border-radius: 8px; color:#000;font-weight:600">Déconnexion</button>
+                                        <!-- Formulaire de déconnexion -->
+                                        @* <button type="submit" class="nav-link btn btn-link text-dark">Logout</button> *@
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="content">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+            </div>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted" style="display:none">
         <div class="container">
             &copy; 2025 - BillEase - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function Cancel() {
+            var div = document.getElementById("modal");
+            if (div.style.display === "none" || div.style.display === "") {
+                console.log('block')
+                div.style.display = "block"; // Afficher la div
+            } else {
+                console.log('none')
+                div.style.display = "none"; // Masquer la div
+            }
+        }
+    </script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
